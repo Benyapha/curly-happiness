@@ -10,9 +10,9 @@ def summation(n1, n2):
 	return n1 + n2
 
 def test():
-	print("GGWP")
+	print('giveeiei')
 
-def test():
+def test_1():
 	print('giveeiei')
 
 main(int(input()), int(input()))
