@@ -12,7 +12,7 @@ def summation(n1, n2):
 def test():
 	print('giveeiei')
 
-def test_1():
+def test1():
 	print('giveeiei')
 
 main(int(input()), int(input()))
