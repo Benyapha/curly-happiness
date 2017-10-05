@@ -9,4 +9,7 @@ def subtraction(n1, n2):
 def summation(n1, n2):
 	return n1 + n2
 
+def test():
+	print("GGWP")
+
 main(int(input()), int(input()))
